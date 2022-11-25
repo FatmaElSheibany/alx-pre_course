@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "School"
-making edits so I have something to commit coz i need to change the commit message to pass teh tests
+echo "The school is open!"
